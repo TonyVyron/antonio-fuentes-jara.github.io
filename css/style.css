@@ -580,6 +580,7 @@ a:focus {
     height: 320px;
     border-radius: 50%; 
     object-fit: cover;
+    object-position: top center; /* Muestra más la parte de arriba */
 }
 
 @media (max-width: 991.98px) {
